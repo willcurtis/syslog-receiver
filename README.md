@@ -176,4 +176,4 @@ Press **s** to save the **currently visible** lines to a timestamped file (you c
 
 ## License
 
-TBD by repository owner (e.g., MIT, BSD‑2‑Clause, Apache‑2.0).
+MIT License
